@@ -1,0 +1,6 @@
+{
+  "name": "MAIKI AI",
+  "description": "MAIKI AI voice assistant with ElevenLabs Text-to-Speech integration and custom Voice ID configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
